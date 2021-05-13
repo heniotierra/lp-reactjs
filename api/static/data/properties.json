@@ -1,0 +1,462 @@
+[
+  {
+    "overview": {
+      "price": "100000.00",
+      "beds": 5,
+      "baths": 4.5,
+      "neighborhood": "Kendall",
+      "address": "1234 SW 11th ave",
+      "city": "Miami",
+      "zipcode": 12345,
+      "available": true
+    },
+    "facts": {
+      "type": "Single Home",
+      "yearBuilt": 1953,
+      "heating": "electric",
+      "parking": "2 spaces",
+      "lot": "3000 sqft",
+      "stories": 2
+    },
+    "others": {
+      "anualTax": 5000.45,
+      "hasGarage": true,
+      "pool": false,
+      "virtualTourLink": "https://vt.test",
+      "parcelNumber": 12345678,
+      "lastSold": "12-12-2019"
+    },
+    "visits": {
+      "total": 12000,
+      "lastVisited": "12-12-2020"
+    },
+    "homeImage": "./images/property-1.jpg",
+    "images": [
+      "./images/property-1.jpg",
+      "./images/property-detail-1.jpg",
+      "./images/property-detail-2.jpg",
+      "./images/property-detail-3.jpg",
+      "./images/property-detail-4.jpg",
+      "./images/property-detail-5.jpg",
+      "./images/property-detail-6.jpg",
+      "./images/property-detail-7.jpg",
+      "./images/property-detail-8.jpg",
+      "./images/property-detail-9.jpg",
+      "./images/property-detail-10.jpg"
+    ]
+  },
+  {
+    "overview": {
+      "price": "120000.00",
+      "beds": 2,
+      "baths": 2.5,
+      "neighborhood": "Sunrise",
+      "address": "1234 SW 11th ave",
+      "city": "Plantation",
+      "zipcode": 34544,
+      "available": false
+    },
+    "facts": {
+      "type": "Single Home",
+      "yearBuilt": 1953,
+      "heating": "electric",
+      "parking": "2 spaces",
+      "lot": "3000 sqft",
+      "stories": 2
+    },
+    "others": {
+      "anualTax": 5000.45,
+      "hasGarage": true,
+      "pool": false,
+      "virtualTourLink": "https://vt.test",
+      "parcelNumber": 12345678,
+      "lastSold": "12-11-2019"
+    },
+    "visits": {
+      "total": 15000,
+      "lastVisited": "11-12-2020"
+    },
+    "homeImage": "./images/property-2.jpg",
+    "images": [
+      "./images/property-2.jpg",
+      "./images/property-detail-1.jpg",
+      "./images/property-detail-2.jpg",
+      "./images/property-detail-3.jpg",
+      "./images/property-detail-4.jpg",
+      "./images/property-detail-5.jpg",
+      "./images/property-detail-6.jpg",
+      "./images/property-detail-7.jpg",
+      "./images/property-detail-8.jpg",
+      "./images/property-detail-9.jpg",
+      "./images/property-detail-10.jpg"
+    ]
+  },
+  {
+    "overview": {
+      "price": "160000.00",
+      "beds": 5,
+      "baths": 2.5,
+      "neighborhood": "Hollywood",
+      "address": "1234 SW 11th ave",
+      "city": "Los Angeles",
+      "zipcode": 66556,
+      "available": false
+    },
+    "facts": {
+      "type": "Single Home",
+      "yearBuilt": 1955,
+      "heating": "electric",
+      "parking": "2 spaces",
+      "lot": "3000 sqft",
+      "stories": 2
+    },
+    "others": {
+      "anualTax": 5000.45,
+      "hasGarage": true,
+      "pool": false,
+      "virtualTourLink": "https://vt.test",
+      "parcelNumber": 12345678,
+      "lastSold": "12-10-2019"
+    },
+    "visits": {
+      "total": 11000,
+      "lastVisited": "11-11-2020"
+    },
+    "homeImage": "./images/property-3.jpg",
+    "images": [
+      "./images/property-3.jpg",
+      "./images/property-detail-1.jpg",
+      "./images/property-detail-2.jpg",
+      "./images/property-detail-3.jpg",
+      "./images/property-detail-4.jpg",
+      "./images/property-detail-5.jpg",
+      "./images/property-detail-6.jpg",
+      "./images/property-detail-7.jpg",
+      "./images/property-detail-8.jpg",
+      "./images/property-detail-9.jpg",
+      "./images/property-detail-10.jpg"
+    ]
+  },
+  {
+    "overview": {
+      "price": "260000.00",
+      "beds": 4,
+      "baths": 6,
+      "neighborhood": "West Hollywood",
+      "address": "1234 SW 11th ave",
+      "city": "Pasadena",
+      "zipcode": 66333,
+      "available": false
+    },
+    "facts": {
+      "type": "Single Home",
+      "yearBuilt": 1955,
+      "heating": "electric",
+      "parking": "0 spaces",
+      "lot": "3000 sqft",
+      "stories": 2
+    },
+    "others": {
+      "anualTax": 5000.45,
+      "hasGarage": true,
+      "pool": false,
+      "virtualTourLink": "https://vt.test",
+      "parcelNumber": 12345678,
+      "lastSold": "10-10-2019"
+    },
+    "visits": {
+      "total": 8000,
+      "lastVisited": "9-11-2020"
+    },
+    "homeImage": "./images/property-4.jpg",
+    "images": [
+      "./images/property-4.jpg",
+      "./images/property-detail-1.jpg",
+      "./images/property-detail-2.jpg",
+      "./images/property-detail-3.jpg",
+      "./images/property-detail-4.jpg",
+      "./images/property-detail-5.jpg",
+      "./images/property-detail-6.jpg",
+      "./images/property-detail-7.jpg",
+      "./images/property-detail-8.jpg",
+      "./images/property-detail-9.jpg",
+      "./images/property-detail-10.jpg"
+    ]
+  },
+  {
+    "overview": {
+      "price": "265000.00",
+      "beds": 3,
+      "baths": 2,
+      "neighborhood": "Malibu",
+      "address": "1234 SW 11th ave",
+      "city": "Malibu",
+      "zipcode": 66322,
+      "available": true
+    },
+    "facts": {
+      "type": "Single Home",
+      "yearBuilt": 1955,
+      "heating": "electric",
+      "parking": "0 spaces",
+      "lot": "3000 sqft",
+      "stories": 2
+    },
+    "others": {
+      "anualTax": 5000.45,
+      "hasGarage": true,
+      "pool": false,
+      "virtualTourLink": "https://vt.test",
+      "parcelNumber": 12345678,
+      "lastSold": "10-9-2019"
+    },
+    "visits": {
+      "total": 9000,
+      "lastVisited": "9-9-2020"
+    },
+    "homeImage": "./images/property-5.jpg",
+    "images": [
+      "./images/property-5.jpg",
+      "./images/property-detail-1.jpg",
+      "./images/property-detail-2.jpg",
+      "./images/property-detail-3.jpg",
+      "./images/property-detail-4.jpg",
+      "./images/property-detail-5.jpg",
+      "./images/property-detail-6.jpg",
+      "./images/property-detail-7.jpg",
+      "./images/property-detail-8.jpg",
+      "./images/property-detail-9.jpg",
+      "./images/property-detail-10.jpg"
+    ]
+  },
+  {
+    "overview": {
+      "price": "365000.00",
+      "beds": 3,
+      "baths": 4,
+      "neighborhood": "Malibu Beach",
+      "address": "1234 SW 11th ave",
+      "city": "Malibu",
+      "zipcode": 66222,
+      "available": true
+    },
+    "facts": {
+      "type": "Single Home",
+      "yearBuilt": 1955,
+      "heating": "electric",
+      "parking": "0 spaces",
+      "lot": "3000 sqft",
+      "stories": 2
+    },
+    "others": {
+      "anualTax": 5000.45,
+      "hasGarage": true,
+      "pool": false,
+      "virtualTourLink": "https://vt.test",
+      "parcelNumber": 12345678,
+      "lastSold": "8-9-2019"
+    },
+    "visits": {
+      "total": 5000,
+      "lastVisited": "8-9-2020"
+    },
+    "homeImage": "./images/property-6.jpg",
+    "images": [
+      "./images/property-6.jpg",
+      "./images/property-detail-1.jpg",
+      "./images/property-detail-2.jpg",
+      "./images/property-detail-3.jpg",
+      "./images/property-detail-4.jpg",
+      "./images/property-detail-5.jpg",
+      "./images/property-detail-6.jpg",
+      "./images/property-detail-7.jpg",
+      "./images/property-detail-8.jpg",
+      "./images/property-detail-9.jpg",
+      "./images/property-detail-10.jpg"
+    ]
+  },
+  {
+    "overview": {
+      "price": "380000.00",
+      "beds": 4,
+      "baths": 3,
+      "neighborhood": "Highline",
+      "address": "1234 SW 11th ave",
+      "city": "Manhattan",
+      "zipcode": 11223,
+      "available": true
+    },
+    "facts": {
+      "type": "Apartment",
+      "yearBuilt": 1955,
+      "heating": "electric",
+      "parking": "0 spaces",
+      "lot": "3000 sqft",
+      "stories": 1
+    },
+    "others": {
+      "anualTax": 5000.45,
+      "hasGarage": true,
+      "pool": false,
+      "virtualTourLink": "https://vt.test",
+      "parcelNumber": 12345678,
+      "lastSold": "1-9-2019"
+    },
+    "visits": {
+      "total": 400,
+      "lastVisited": "1-1-2020"
+    },
+    "homeImage": "./images/property-7.jpg",
+    "images": [
+      "./images/property-7.jpg",
+      "./images/property-detail-1.jpg",
+      "./images/property-detail-2.jpg",
+      "./images/property-detail-3.jpg",
+      "./images/property-detail-4.jpg",
+      "./images/property-detail-5.jpg",
+      "./images/property-detail-6.jpg",
+      "./images/property-detail-7.jpg",
+      "./images/property-detail-8.jpg",
+      "./images/property-detail-9.jpg",
+      "./images/property-detail-10.jpg"
+    ]
+  },
+  {
+    "overview": {
+      "price": "780000.00",
+      "beds": 4,
+      "baths": 4,
+      "neighborhood": "Uptown",
+      "address": "1234 SW 11th ave",
+      "city": "Manhattan",
+      "zipcode": 11211,
+      "available": true
+    },
+    "facts": {
+      "type": "Apartment",
+      "yearBuilt": 1955,
+      "heating": "electric",
+      "parking": "0 spaces",
+      "lot": "3000 sqft",
+      "stories": 1
+    },
+    "others": {
+      "anualTax": 5000.45,
+      "hasGarage": true,
+      "pool": false,
+      "virtualTourLink": "https://vt.test",
+      "parcelNumber": 12345678,
+      "lastSold": "1-8-2019"
+    },
+    "visits": {
+      "total": 1000,
+      "lastVisited": "1-2-2020"
+    },
+    "homeImage": "./images/property-8.jpg",
+    "images": [
+      "./images/property-8.jpg",
+      "./images/property-detail-1.jpg",
+      "./images/property-detail-2.jpg",
+      "./images/property-detail-3.jpg",
+      "./images/property-detail-4.jpg",
+      "./images/property-detail-5.jpg",
+      "./images/property-detail-6.jpg",
+      "./images/property-detail-7.jpg",
+      "./images/property-detail-8.jpg",
+      "./images/property-detail-9.jpg",
+      "./images/property-detail-10.jpg"
+    ]
+  },
+  {
+    "overview": {
+      "price": "1080000.00",
+      "beds": 3,
+      "baths": 3,
+      "neighborhood": "Bay Area",
+      "address": "1234 SW 11th ave",
+      "city": "San Franscisco",
+      "zipcode": 56566,
+      "available": true
+    },
+    "facts": {
+      "type": "Townhouse",
+      "yearBuilt": 1955,
+      "heating": "electric",
+      "parking": "0 spaces",
+      "lot": "3000 sqft",
+      "stories": 1
+    },
+    "others": {
+      "anualTax": 5000.45,
+      "hasGarage": true,
+      "pool": false,
+      "virtualTourLink": "https://vt.test",
+      "parcelNumber": 12345678,
+      "lastSold": "1-1-2019"
+    },
+    "visits": {
+      "total": 2000,
+      "lastVisited": "10-2-2020"
+    },
+    "homeImage": "./images/property-9.jpg",
+    "images": [
+      "./images/property-9.jpg",
+      "./images/property-detail-1.jpg",
+      "./images/property-detail-2.jpg",
+      "./images/property-detail-3.jpg",
+      "./images/property-detail-4.jpg",
+      "./images/property-detail-5.jpg",
+      "./images/property-detail-6.jpg",
+      "./images/property-detail-7.jpg",
+      "./images/property-detail-8.jpg",
+      "./images/property-detail-9.jpg",
+      "./images/property-detail-10.jpg"
+    ]
+  },
+  {
+    "overview": {
+      "price": "1180000.00",
+      "beds": 4,
+      "baths": 5,
+      "neighborhood": "Bay Area",
+      "address": "1234 SW 11th ave",
+      "city": "San Franscisco",
+      "zipcode": 56566,
+      "available": true
+    },
+    "facts": {
+      "type": "Townhouse",
+      "yearBuilt": 1955,
+      "heating": "electric",
+      "parking": "0 spaces",
+      "lot": "3000 sqft",
+      "stories": 1
+    },
+    "others": {
+      "anualTax": 5000.45,
+      "hasGarage": true,
+      "pool": false,
+      "virtualTourLink": "https://vt.test",
+      "parcelNumber": 12345678,
+      "lastSold": "2-1-2019"
+    },
+    "visits": {
+      "total": 3000,
+      "lastVisited": "10-10-2020"
+    },
+    "homeImage": "./images/property-10.jpg",
+    "images": [
+      "./images/property-10.jpg",
+      "./images/property-detail-1.jpg",
+      "./images/property-detail-2.jpg",
+      "./images/property-detail-3.jpg",
+      "./images/property-detail-4.jpg",
+      "./images/property-detail-5.jpg",
+      "./images/property-detail-6.jpg",
+      "./images/property-detail-7.jpg",
+      "./images/property-detail-8.jpg",
+      "./images/property-detail-9.jpg",
+      "./images/property-detail-10.jpg"
+    ]
+  }
+]

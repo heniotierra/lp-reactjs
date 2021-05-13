@@ -1,0 +1,13 @@
+{
+  "rules": {
+    "no-magic-numbers": 0,
+    "@typescript-eslint/no-var-requires": 0
+  },
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "extensions": [".js", ".ts", ".d.ts"]
+      }
+    }
+  }
+}
