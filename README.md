@@ -1,12 +1,14 @@
 Demo App
 
-Instruction to run
+Instructions to run
 ==================
 
 Requerements:
 --------------------
 Node v10.23.2
+
 Docker Engine 19
+
 docker-compose 3.5
 
 To start the database application, follow these steps:
@@ -43,7 +45,8 @@ Start the WEB application:
 TODOs
 ==================
 
-Hanlde errors returned from the API - didn't have enough time to cover this
+Handle errors returned from the API - didn't have enough time to cover this
+
 Improve carosel for showing images
 
 
