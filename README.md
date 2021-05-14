@@ -14,12 +14,6 @@ To start the database application, follow these steps:
     cd lp-docker-reactjs-challege
     docker-compose up -d
 
-
-Install Sequelize globally:
-
-    npm install sequelize sequelize-cli
-
-
 Install Sequelize globally:
 
     npm install sequelize sequelize-cli sequelize-cli-typescript
